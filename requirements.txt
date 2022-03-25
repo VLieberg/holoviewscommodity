@@ -1,6 +1,9 @@
 
 pandas
 numpy
-holoviews
-jupyterlab
-hvplot
+holoviews==1.14.8
+hvplot==0.7.3
+panel==0.12.6
+jupyterlab==3.0.16
+Jinja2==3.0.1
+Markdown==3.3.4
